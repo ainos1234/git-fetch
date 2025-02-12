@@ -3,3 +3,4 @@ abcd
 def
 ghi
 ijk
+merge1
